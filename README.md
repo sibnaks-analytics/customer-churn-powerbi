@@ -2,6 +2,8 @@
 
 A three-page Power BI dashboard built on 7,043 telecom customers to find out why customers leave, which segments are most at risk, and how much monthly revenue is exposed to churn.
 
+**Portfolio:** https://sibnaks-analytics.github.io/customer-churn-powerbi/
+
 ## Key results
 - **26.5% churn rate** (1,869 customers), costing about **$139K in monthly revenue**
 - **889 active customers are high risk**, putting about **$61.9K of monthly revenue** at risk
